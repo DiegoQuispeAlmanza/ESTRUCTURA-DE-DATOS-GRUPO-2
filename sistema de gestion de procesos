@@ -1,1 +1,13 @@
+#include <iostream>
+#include <string>
+#include <iostream>
+using namespace std;
 
+//estructura del proceso
+struct Proceso{
+int id;
+string nombre;
+int prioridad;
+int memoria
+string estado
+}
