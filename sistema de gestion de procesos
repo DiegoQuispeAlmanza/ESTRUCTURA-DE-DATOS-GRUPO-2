@@ -8,6 +8,8 @@ struct Proceso{
 int id;
 string nombre;
 int prioridad;
-int memoria
-string estado
+int memoria;
+string estado;
+
+Proceso* siguiente;
 }
